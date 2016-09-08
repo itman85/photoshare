@@ -1,0 +1,18 @@
+//
+//  myphotoshare-prefix.pch
+//  
+//
+//  Created by Phan Nguyen on 27/3/15.
+//  Copyright (c) 2015 Phan Nguyen. All rights reserved.
+//
+
+#ifndef myphotoshare_myphotoshare_prefix_pch
+#define myphotoshare_myphotoshare_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#define BLUE_COLOR [UIColor colorWithRed:49/255.0 green:150/255.0 blue:214/255.0 alpha:1.0]
+
